@@ -1,0 +1,3 @@
+The most well-formulated but hard to understand principles are the SOLID principles. SOLID is a set of principles which have either a mathematical, statistical or semantical background. And the most interesting thing is: You can measure them if you want. Honestly I have never seen it... My personal opinion on it is that programming seems to be more a creative than an engineering process.
+
+In short: The most important abbreviation for a developer is SOLID. It provides a set of measurable principles on semantic level. They guide you through the jungle of design decisions and keep your code as clean as possible if you apply them proberly.
